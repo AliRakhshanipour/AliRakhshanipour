@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliRakhshanipour
-- 👀 I’m interested in JavaScript , NodeJs , EpressJs
+- 👀 I’m interested in JavaScript , NodeJs , EpressJs , Python , Django , Django-Rest-Framework
 - 🌱 I’m currently learning ExpressJs , KoaJs , GraphQL , RESTfull API , Swagger , Docker
 - 💞️ I’m looking to collaborate on ExpressJs Projects
 - 📫 How to reach me ...

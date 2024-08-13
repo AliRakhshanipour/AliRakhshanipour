@@ -1,4 +1,4 @@
-![logo](https://github.com/AliRakhshanipour/AliRakhshanipour/blob/main/node-js-main.jpg)
+![logo](https://github.com/AliRakhshanipour/AliRakhshanipour/blob/main/NodeJS-developers.png)
 <h1 align="center">Hi 👋, I'm Ali Rakshanipour</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
